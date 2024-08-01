@@ -2,7 +2,7 @@
 # Общие вопросы о платформе 1С
 
 <details>
-  <summary>_Показать вопросы_</summary>
+  <summary>Показать вопросы</summary>
 
   
   <details>
